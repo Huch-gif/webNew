@@ -1,0 +1,22 @@
+# Виртуальное окружение
+.venv/
+__pycache__/
+*.pyc
+
+# Файлы Python
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+.DS_Store
+
+# Логи и кэш
+.cache
+logs/
+*.log
+
+# IDE
+.idea/
+*.swp
+*.swo
+.vscode/
